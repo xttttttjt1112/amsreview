@@ -660,5 +660,15 @@ async function router() {
   }
 }
 
+// Ghi nhớ trạng thái thu gọn của khung "Lưu ý" (chỉ trong trình duyệt này)
+(() => {
+  const n = document.getElementById('siteNotice');
+  if (!n) return;
+  try { if (localStorage.getItem('amsr-notice') === 'closed') n.open = false; } catch { /* bỏ qua */ }
+  n.addEventListener('toggle', () => {
+    try { localStorage.setItem('amsr-notice', n.open ? 'open' : 'closed'); } catch { /* bỏ qua */ }
+  });
+})();
+
 window.addEventListener('hashchange', router);
 router();

@@ -17,6 +17,8 @@
   --good-bg: #e3f3eb;
   --mid-bg: #fbf0d9;
   --bad-bg: #f9e3e1;
+  --info-bg: #e8eef8;
+  --info-line: #c9d6ec;
   --shadow: 0 1px 2px rgba(20, 30, 50, .06), 0 4px 16px rgba(20, 30, 50, .05);
   --radius: 14px;
   --radius-sm: 9px;
@@ -42,6 +44,8 @@
     --good-bg: #173326;
     --mid-bg: #3a2f17;
     --bad-bg: #3b1f1d;
+    --info-bg: #18233a;
+    --info-line: #2a3a5a;
     --shadow: 0 1px 2px rgba(0, 0, 0, .3);
     color-scheme: dark;
   }
@@ -49,7 +53,7 @@
 :root[data-theme="dark"] {
   --bg: #11151c; --surface: #1a2029; --surface-2: #222a35; --ink: #e9ecf1; --ink-2: #b4bbc8; --ink-3: #868e9c;
   --line: #2d3644; --brand: #8fb3ec; --brand-2: #a9c5f2; --brand-ink: #0f1a2c; --accent: #f0a845;
-  --good: #4cc08a; --mid: #e0b04a; --bad: #ec7a70; --good-bg: #173326; --mid-bg: #3a2f17; --bad-bg: #3b1f1d;
+  --good: #4cc08a; --mid: #e0b04a; --bad: #ec7a70; --good-bg: #173326; --mid-bg: #3a2f17; --bad-bg: #3b1f1d; --info-bg: #18233a; --info-line: #2a3a5a;
   --shadow: 0 1px 2px rgba(0, 0, 0, .3); color-scheme: dark;
 }
 
@@ -404,3 +408,15 @@ textarea.big-text { min-height: 200px; font-size: 16px; line-height: 1.6; }
   .nick-btn { max-width: 190px; }
   .post-as { flex-basis: 100%; }
 }
+
+/* Site notice ------------------------------------------------------------ */
+.notice-band { background: var(--info-bg); border-bottom: 1px solid var(--info-line); }
+.notice { padding-block: 10px; font-size: 14px; color: var(--ink-2); }
+.notice summary { cursor: pointer; list-style: none; display: flex; align-items: center; gap: 8px; font-weight: 700; color: var(--ink); }
+.notice summary::-webkit-details-marker { display: none; }
+.notice summary::before { content: "i"; flex: none; width: 18px; height: 18px; border-radius: 50%; background: var(--brand); color: var(--brand-ink); font-size: 12px; font-weight: 800; display: grid; place-items: center; font-style: italic; }
+.notice-toggle { margin-left: auto; font-weight: 500; font-size: 13px; color: var(--ink-3); }
+.notice[open] .notice-toggle::after { content: "Thu gọn"; }
+.notice:not([open]) .notice-toggle::after { content: "Xem"; }
+.notice ul { margin: 8px 0 2px; padding-left: 26px; display: grid; gap: 4px; max-width: 900px; }
+.notice strong { color: var(--ink); font-weight: 600; }

@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AmsReview · Đánh giá giáo viên ẩn danh</title>
+  <meta name="description" content="Nơi học sinh THPT Chuyên Hà Nội – Amsterdam chia sẻ đánh giá ẩn danh về thầy cô.">
+  <meta name="theme-color" content="#14305a">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <a class="skip" href="#main">Bỏ qua đến nội dung</a>
+  <header class="topbar">
+    <div class="wrap topbar-inner">
+      <a class="brand" href="#/">
+        <span class="brand-mark" aria-hidden="true">A</span>
+        <span class="brand-text"><strong>AmsReview</strong><small>Đánh giá giáo viên ẩn danh</small></span>
+      </a>
+      <nav class="topnav" aria-label="Điều hướng chính">
+        <a href="#/" data-nav="home">Giáo viên</a>
+        <button class="nick-btn" id="nickBtn" type="button" hidden title="Biệt danh ẩn danh của bạn – bấm để đổi"></button>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="wrap" tabindex="-1">
+    <p class="loading">Đang tải…</p>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap footer-inner">
+      <p><strong>AmsReview</strong> là dự án do học sinh lập ra, <em>không phải</em> trang chính thức của Trường THPT Chuyên Hà Nội – Amsterdam.</p>
+      <p>Mọi đánh giá là ý kiến cá nhân của người viết. Danh sách giáo viên lấy từ <a href="https://tkbams.mrtee.vn" target="_blank" rel="noopener">tkbams.mrtee.vn</a>. · <a href="#/quan-tri">Quản trị</a></p>
+    </div>
+  </footer>
+
+  <dialog id="reviewDialog" class="dialog" aria-labelledby="reviewDialogTitle"></dialog>
+  <dialog id="reportDialog" class="dialog dialog-sm" aria-labelledby="reportDialogTitle"></dialog>
+  <dialog id="nickDialog" class="dialog dialog-sm" aria-labelledby="nickDialogTitle"></dialog>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <script src="/app.js"></script>
+</body>
+</html>

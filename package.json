@@ -1,0 +1,12 @@
+{
+  "name": "amsreview",
+  "version": "1.0.0",
+  "description": "Đánh giá giáo viên ẩn danh cho học sinh THPT Chuyên Hà Nội – Amsterdam",
+  "main": "server.js",
+  "private": true,
+  "engines": { "node": ">=22.13" },
+  "scripts": {
+    "start": "node --no-warnings=ExperimentalWarning server.js",
+    "update-teachers": "node scripts/update-teachers.js"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "_ghi_chu": "Chức vụ đặc biệt, theo mã giáo viên trong TKB. 'name' dùng để kiểm tra mã không bị đổi sang người khác.",
+  "HT":  { "role": "principal",      "label": "Hiệu trưởng",     "name": "Trần Thùy Dương" },
+  "HP1": { "role": "vice-principal", "label": "Phó Hiệu trưởng", "name": "Dương Tú Anh" },
+  "HP2": { "role": "vice-principal", "label": "Phó Hiệu trưởng", "name": "Hoàng Thu Hà" }
+}

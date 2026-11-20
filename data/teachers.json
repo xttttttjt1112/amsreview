@@ -1,0 +1,3419 @@
+{
+ "source": "https://tkbams.mrtee.vn",
+ "schoolYear": "2026–2027",
+ "teachers": [
+  {
+   "code": "N4",
+   "name": "Bùi Ánh Dương",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ"
+   ],
+   "classes": [
+    "10 Anh 1",
+    "10 Lý 1"
+   ],
+   "homeroom": [
+    "10 Anh 1"
+   ]
+  },
+  {
+   "code": "H8",
+   "name": "Bùi Diệu Linh",
+   "subject": "Hóa học",
+   "teachingSubjects": [
+    "Hóa học"
+   ],
+   "classes": [
+    "9A",
+    "11 Pháp 2",
+    "12 Cambridge",
+    "12 Hóa 2",
+    "12 Oxford",
+    "12 Tin 2"
+   ],
+   "homeroom": [
+    "11 Pháp 2"
+   ]
+  },
+  {
+   "code": "N34",
+   "name": "Bùi Minh Tú",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ"
+   ],
+   "classes": [
+    "10 Hóa 1",
+    "10 Sinh 1",
+    "10 Sử 1",
+    "12 Sinh 1",
+    "12 Sử 1",
+    "12 Trung"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "N14",
+   "name": "Bùi Ngọc Quyên",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ"
+   ],
+   "classes": [
+    "12 Hóa 1",
+    "12 Lý 1",
+    "12 Tin 1",
+    "12 Toán 1",
+    "12 Toán 2"
+   ],
+   "homeroom": [
+    "12 Toán 2"
+   ]
+  },
+  {
+   "code": "N10",
+   "name": "Bùi Thanh Hương",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ"
+   ],
+   "classes": [
+    "9A",
+    "9B",
+    "12 Anh 1"
+   ],
+   "homeroom": [
+    "12 Anh 1"
+   ]
+  },
+  {
+   "code": "Tin6",
+   "name": "Bùi Thị Cẩm Dương",
+   "subject": "Tin học",
+   "teachingSubjects": [
+    "Tin học"
+   ],
+   "classes": [
+    "12 Cambridge",
+    "12 Hóa 1",
+    "12 Hóa 2",
+    "12 Oxford"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "V18",
+   "name": "Bùi Thị Hoài Thanh",
+   "subject": "Ngữ văn",
+   "teachingSubjects": [
+    "Ngữ văn"
+   ],
+   "classes": [
+    "10 Anh 1",
+    "10 Lý 2",
+    "10 Trung 1"
+   ],
+   "homeroom": [
+    "10 Trung 1"
+   ]
+  },
+  {
+   "code": "V2",
+   "name": "Bùi Thị Kim Ánh",
+   "subject": "Ngữ văn",
+   "teachingSubjects": [
+    "Ngữ văn"
+   ],
+   "classes": [
+    "10 Nga 2",
+    "10 Sử 1",
+    "10 Văn 1"
+   ],
+   "homeroom": [
+    "10 Văn 1"
+   ]
+  },
+  {
+   "code": "Sh1",
+   "name": "Bùi Thu Hà",
+   "subject": "Sinh học",
+   "teachingSubjects": [
+    "Sinh học"
+   ],
+   "classes": [
+    "10 Hóa 1",
+    "10 Sinh 1",
+    "10 Sinh 2"
+   ],
+   "homeroom": [
+    "10 Hóa 1"
+   ]
+  },
+  {
+   "code": "T12",
+   "name": "Bùi Văn Mạnh",
+   "subject": "Toán",
+   "teachingSubjects": [
+    "GDĐP",
+    "Toán"
+   ],
+   "classes": [
+    "10 Hóa 1",
+    "10 Hóa 2",
+    "10 Nga 2",
+    "10 Pháp 1",
+    "10 Sinh 2",
+    "12 Toán 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "V22",
+   "name": "Cao Hải Yến",
+   "subject": "Ngữ văn",
+   "teachingSubjects": [
+    "GDĐP",
+    "Ngữ văn"
+   ],
+   "classes": [
+    "11 Văn 1",
+    "11 Văn 2",
+    "12 Hóa 2",
+    "12 Toán 1",
+    "12 Trung"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "H15",
+   "name": "Cao Thị Tơ",
+   "subject": "Hóa học",
+   "teachingSubjects": [
+    "Hóa học"
+   ],
+   "classes": [
+    "9C",
+    "9D"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "T6",
+   "name": "Cao Văn Dũng",
+   "subject": "Toán",
+   "teachingSubjects": [
+    "Toán"
+   ],
+   "classes": [
+    "10 Lý 2",
+    "12 Toán 2"
+   ],
+   "homeroom": [
+    "10 Lý 2"
+   ]
+  },
+  {
+   "code": "T13",
+   "name": "Cao Vân Oanh",
+   "subject": "Toán",
+   "teachingSubjects": [
+    "Toán"
+   ],
+   "classes": [
+    "10 Địa 1",
+    "10 Địa 2",
+    "11 Tin 2"
+   ],
+   "homeroom": [
+    "11 Tin 2"
+   ]
+  },
+  {
+   "code": "T27",
+   "name": "Cấn Thị Thu Thảo",
+   "subject": "Toán",
+   "teachingSubjects": [
+    "Toán"
+   ],
+   "classes": [
+    "9B",
+    "9E",
+    "11 Pháp 2",
+    "11 Trung 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "HP1",
+   "name": "Dương Tú Anh",
+   "subject": "Khác",
+   "teachingSubjects": [
+    "Khác"
+   ],
+   "classes": [],
+   "homeroom": []
+  },
+  {
+   "code": "N36",
+   "name": "Dương Văn Vượng",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ",
+    "Ngoại ngữ Trung"
+   ],
+   "classes": [
+    "11 Trung 1",
+    "11 Trung 2",
+    "Nhóm 11 Trung"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "H4",
+   "name": "Đào Nguyễn Thu Hà",
+   "subject": "Hóa học",
+   "teachingSubjects": [
+    "Hóa học"
+   ],
+   "classes": [
+    "11 Hóa 1",
+    "11 Hóa 2",
+    "11 Toán 2"
+   ],
+   "homeroom": [
+    "11 Hóa 1"
+   ]
+  },
+  {
+   "code": "T16",
+   "name": "Đào Phương Thảo",
+   "subject": "Toán",
+   "teachingSubjects": [
+    "Toán"
+   ],
+   "classes": [
+    "10 Hóa 1",
+    "11 Toán 1"
+   ],
+   "homeroom": [
+    "11 Toán 1"
+   ]
+  },
+  {
+   "code": "T28",
+   "name": "Đào Xuân Tuấn",
+   "subject": "Toán",
+   "teachingSubjects": [
+    "Toán"
+   ],
+   "classes": [
+    "11 Địa 2",
+    "11 Văn 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "N9",
+   "name": "Đặng Diễm Hương",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ"
+   ],
+   "classes": [
+    "11 Trung 1",
+    "11 Trung 3"
+   ],
+   "homeroom": [
+    "11 Trung 1"
+   ]
+  },
+  {
+   "code": "N17",
+   "name": "Đặng Huyền Trang",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ"
+   ],
+   "classes": [
+    "11 Anh 2",
+    "11 Văn 2"
+   ],
+   "homeroom": [
+    "11 Văn 2"
+   ]
+  },
+  {
+   "code": "V17",
+   "name": "Đặng Ngọc Phương",
+   "subject": "Ngữ văn",
+   "teachingSubjects": [
+    "Ngữ văn"
+   ],
+   "classes": [
+    "10 Hóa 1",
+    "10 Pháp 2",
+    "10 Tin 1",
+    "11 Địa 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "V1",
+   "name": "Đặng Nguyệt Anh",
+   "subject": "Ngữ văn",
+   "teachingSubjects": [
+    "GDĐP",
+    "Ngữ văn"
+   ],
+   "classes": [
+    "10 Nga 1",
+    "10 Trung - Nga",
+    "11 Địa 1",
+    "11 Địa 2",
+    "11 Pháp 1",
+    "11 Pháp 2",
+    "11 Tin 1",
+    "11 Toán 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "N29",
+   "name": "Đặng Như Hoa",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ"
+   ],
+   "classes": [
+    "10 Nhật",
+    "11 Nhật"
+   ],
+   "homeroom": [
+    "10 Nhật"
+   ]
+  },
+  {
+   "code": "H9",
+   "name": "Đặng Thanh Ngọc",
+   "subject": "Hóa học",
+   "teachingSubjects": [
+    "Hóa học"
+   ],
+   "classes": [
+    "10 Lý 1",
+    "10 Pháp 2",
+    "10 Sinh 2",
+    "12 Hóa 1"
+   ],
+   "homeroom": [
+    "10 Sinh 2"
+   ]
+  },
+  {
+   "code": "Cn1",
+   "name": "Đặng Thị Thu Hà",
+   "subject": "Công nghệ",
+   "teachingSubjects": [
+    "Công nghệ"
+   ],
+   "classes": [
+    "10 Lý 1",
+    "10 Lý 2",
+    "10 Nhật",
+    "12 Anh 2",
+    "12 Nga",
+    "12 Sử 2",
+    "12 Trung"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "H2",
+   "name": "Đinh Thị Băng",
+   "subject": "Hóa học",
+   "teachingSubjects": [
+    "GDĐP",
+    "Hóa học"
+   ],
+   "classes": [
+    "11 Anh 2",
+    "11 Nhật",
+    "11 Tin 2",
+    "11 Trung 2",
+    "11 Trung 3"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "T29",
+   "name": "Đinh Thị Yến",
+   "subject": "Toán",
+   "teachingSubjects": [
+    "Toán"
+   ],
+   "classes": [
+    "10 Anh 2",
+    "10 Nga 1",
+    "12 Cambridge",
+    "12 Nga"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "L6",
+   "name": "Đinh Trần Phương",
+   "subject": "Vật lí",
+   "teachingSubjects": [
+    "Vật lí"
+   ],
+   "classes": [
+    "10 Lý 2",
+    "10 Toán 1",
+    "11 Lý 1",
+    "11 Nhật"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "T24",
+   "name": "Đoàn Thị Lan Hương",
+   "subject": "Toán",
+   "teachingSubjects": [
+    "Toán"
+   ],
+   "classes": [
+    "11 Hóa 2",
+    "11 Văn 1",
+    "12 Địa 2",
+    "12 Oxford"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "V27",
+   "name": "Đỗ Hồng Hạnh",
+   "subject": "Ngữ văn",
+   "teachingSubjects": [
+    "Ngữ văn"
+   ],
+   "classes": [
+    "9C",
+    "9E",
+    "10 Sử 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "N21",
+   "name": "Đỗ Hồng Vân",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ"
+   ],
+   "classes": [
+    "10 Pháp 1",
+    "10 Pháp 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "TIn1",
+   "name": "Đỗ Huy Hiếu",
+   "subject": "Tin học",
+   "teachingSubjects": [
+    "Tin học"
+   ],
+   "classes": [
+    "9A",
+    "9B",
+    "9C",
+    "10 Nga 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "G2",
+   "name": "Đỗ Kiều Tâm",
+   "subject": "GDKT & Pháp luật",
+   "teachingSubjects": [
+    "GDĐP"
+   ],
+   "classes": [
+    "10 Lý 1",
+    "10 Lý 2",
+    "10 Sinh 1",
+    "11 Lý 1",
+    "11 Lý 2",
+    "11 Sinh 2",
+    "11 Toán 1",
+    "11 Trung 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "V6",
+   "name": "Đỗ Thị Thu Hằng",
+   "subject": "Ngữ văn",
+   "teachingSubjects": [
+    "GDĐP",
+    "Ngữ văn"
+   ],
+   "classes": [
+    "11 Hóa 1",
+    "11 Sử 2",
+    "12 Địa 1",
+    "12 Tin 2"
+   ],
+   "homeroom": [
+    "12 Địa 1"
+   ]
+  },
+  {
+   "code": "V9",
+   "name": "Đỗ Thị Thu Hương",
+   "subject": "Ngữ văn",
+   "teachingSubjects": [
+    "Ngữ văn"
+   ],
+   "classes": [
+    "10 Nga 1",
+    "10 Văn 2",
+    "12 Anh 1"
+   ],
+   "homeroom": [
+    "10 Văn 2"
+   ]
+  },
+  {
+   "code": "S8",
+   "name": "Đỗ Thị Thu Quyên",
+   "subject": "Lịch sử",
+   "teachingSubjects": [
+    "Lịch sử"
+   ],
+   "classes": [
+    "11 Anh 2",
+    "11 Hóa 2",
+    "11 Lý 2",
+    "11 Toán 1",
+    "11 Toán 2",
+    "12 Anh 1",
+    "12 Hóa 2",
+    "12 Tin 2",
+    "12 Văn 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "Cn4",
+   "name": "Đỗ Thị Vĩnh Hằng",
+   "subject": "Công nghệ",
+   "teachingSubjects": [
+    "Công nghệ"
+   ],
+   "classes": [
+    "10 Sinh 1",
+    "10 Sinh 2",
+    "11 Pháp 2",
+    "11 Văn 2",
+    "12 Địa 1",
+    "12 Địa 2",
+    "12 Văn 1",
+    "12 Văn 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "V16",
+   "name": "Đỗ Tú Oanh",
+   "subject": "Ngữ văn",
+   "teachingSubjects": [
+    "Ngữ văn"
+   ],
+   "classes": [
+    "12 Văn 1",
+    "12 Văn 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "Sh8",
+   "name": "Hà Huy Công",
+   "subject": "Sinh học",
+   "teachingSubjects": [
+    "Sinh học"
+   ],
+   "classes": [
+    "11 Sinh 1",
+    "12 Sinh 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "T5",
+   "name": "Hà Thị Mai Dung",
+   "subject": "Toán",
+   "teachingSubjects": [
+    "Toán"
+   ],
+   "classes": [
+    "12 Anh 2",
+    "12 Tin 2",
+    "12 Trung"
+   ],
+   "homeroom": [
+    "12 Tin 2"
+   ]
+  },
+  {
+   "code": "T1",
+   "name": "Hạ Vũ Anh",
+   "subject": "Toán",
+   "teachingSubjects": [
+    "Toán"
+   ],
+   "classes": [
+    "11 Lý 2",
+    "11 Toán 2"
+   ],
+   "homeroom": [
+    "11 Lý 2"
+   ]
+  },
+  {
+   "code": "S10",
+   "name": "Hoa Đình Dũng",
+   "subject": "Lịch sử",
+   "teachingSubjects": [
+    "GDĐP",
+    "Lịch sử"
+   ],
+   "classes": [
+    "9A",
+    "9B",
+    "9C",
+    "10 Địa 2",
+    "10 Hóa 2",
+    "10 Tin 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "H13",
+   "name": "Hoàng Thị Thu Hồng",
+   "subject": "Hóa học",
+   "teachingSubjects": [
+    "GDĐP",
+    "Hóa học"
+   ],
+   "classes": [
+    "10 Địa 1",
+    "10 Địa 2",
+    "10 Pháp 2",
+    "10 Tin 1",
+    "10 Tin 2",
+    "10 Văn 1",
+    "10 Văn 2",
+    "11 Lý 2",
+    "11 Sinh 1",
+    "11 Sinh 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "TIn5",
+   "name": "Hoàng Thị Vân",
+   "subject": "Tin học",
+   "teachingSubjects": [
+    "Chuyên đề",
+    "Tin học"
+   ],
+   "classes": [
+    "10 Tin 2",
+    "12 Sinh 1",
+    "12 Sinh 2",
+    "12 Tin 2",
+    "12 Toán 1",
+    "12 Toán 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "H10",
+   "name": "Hoàng Thị Yến",
+   "subject": "Hóa học",
+   "teachingSubjects": [
+    "Hóa học"
+   ],
+   "classes": [
+    "10 Hóa 1",
+    "12 Hóa 2",
+    "12 Toán 1"
+   ],
+   "homeroom": [
+    "12 Hóa 2"
+   ]
+  },
+  {
+   "code": "HP2",
+   "name": "Hoàng Thu Hà",
+   "subject": "Khác",
+   "teachingSubjects": [
+    "Khác"
+   ],
+   "classes": [],
+   "homeroom": []
+  },
+  {
+   "code": "T22",
+   "name": "Hồ Thị Bắc",
+   "subject": "Toán",
+   "teachingSubjects": [
+    "Toán"
+   ],
+   "classes": [
+    "12 Anh 1",
+    "12 Sử 1",
+    "12 Sử 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "Sh5",
+   "name": "Huỳnh Thị Ái Tâm",
+   "subject": "Sinh học",
+   "teachingSubjects": [
+    "Sinh học"
+   ],
+   "classes": [
+    "11 Lý 1",
+    "11 Tin 1",
+    "11 Tin 2",
+    "12 Sinh 2",
+    "12 Sử 1",
+    "12 Tin 1",
+    "12 Toán 1",
+    "12 Toán 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "S2",
+   "name": "Khuất Duy Dũng",
+   "subject": "Lịch sử",
+   "teachingSubjects": [
+    "Lịch sử"
+   ],
+   "classes": [
+    "10 Sử 1",
+    "10 Trung 1",
+    "12 Sử 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "V4",
+   "name": "Khương Thị Thu Cúc",
+   "subject": "Ngữ văn",
+   "teachingSubjects": [
+    "Ngữ văn"
+   ],
+   "classes": [
+    "11 Lý 1",
+    "11 Toán 1",
+    "12 Địa 2"
+   ],
+   "homeroom": [
+    "12 Địa 2"
+   ]
+  },
+  {
+   "code": "QP2",
+   "name": "Khương Thị Thu Hiền",
+   "subject": "GD Quốc phòng & AN",
+   "teachingSubjects": [
+    "GD Quốc phòng & AN"
+   ],
+   "classes": [
+    "10 Anh 2",
+    "10 Địa 1",
+    "10 Địa 2",
+    "10 Nga 2",
+    "10 Nhật",
+    "10 Pháp 1",
+    "10 Pháp 2",
+    "10 Sinh 2",
+    "10 Sử 2",
+    "10 Văn 1",
+    "11 Anh 2",
+    "11 Địa 1",
+    "11 Nhật",
+    "11 Pháp 2",
+    "11 Sinh 2",
+    "11 Trung 3",
+    "11 Văn 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "N11",
+   "name": "Lê Hoàng Kim Khuê",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ"
+   ],
+   "classes": [
+    "10 Anh 1",
+    "11 Anh 2",
+    "11 Sử 1"
+   ],
+   "homeroom": [
+    "11 Anh 2"
+   ]
+  },
+  {
+   "code": "G8",
+   "name": "Lê Hoàng Lộc",
+   "subject": "GDKT & Pháp luật",
+   "teachingSubjects": [
+    "GDKT & Pháp luật"
+   ],
+   "classes": [
+    "10 Nga 2",
+    "10 Nhật",
+    "10 Sử 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "Td2",
+   "name": "Lê Khả Chiến",
+   "subject": "Giáo dục thể chất",
+   "teachingSubjects": [
+    "Giáo dục thể chất"
+   ],
+   "classes": [
+    "11 Địa 2",
+    "11 Sử 1",
+    "11 Sử 2",
+    "11 Toán 1",
+    "11 Toán 2",
+    "11 Văn 1",
+    "11 Văn 2",
+    "12 Anh 1",
+    "12 Anh 2",
+    "12 Pháp 1",
+    "12 Pháp 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "L15",
+   "name": "Lê Nhật Minh",
+   "subject": "Vật lí",
+   "teachingSubjects": [
+    "Vật lí"
+   ],
+   "classes": [
+    "10 Lý 1",
+    "10 Lý 2",
+    "10 Tin 1",
+    "10 Tin 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "S11",
+   "name": "Lê Quang Đại",
+   "subject": "Lịch sử",
+   "teachingSubjects": [
+    "Lịch sử"
+   ],
+   "classes": [
+    "11 Nga - Trung"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "V7",
+   "name": "Lê Thái Hoa",
+   "subject": "Ngữ văn",
+   "teachingSubjects": [
+    "Ngữ văn"
+   ],
+   "classes": [
+    "10 Văn 2",
+    "12 Lý 2",
+    "12 Sử 2"
+   ],
+   "homeroom": [
+    "12 Sử 2"
+   ]
+  },
+  {
+   "code": "Tin2",
+   "name": "Lê Thị Ánh Nguyệt",
+   "subject": "Tin học",
+   "teachingSubjects": [
+    "Tin học"
+   ],
+   "classes": [
+    "10 Địa 1",
+    "10 Địa 2",
+    "10 Lý 1",
+    "10 Lý 2",
+    "10 Toán 1",
+    "10 Toán 2",
+    "11 Lý 1",
+    "11 Lý 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "Nh2",
+   "name": "Lê Thị Anh Thư",
+   "subject": "Âm nhạc",
+   "teachingSubjects": [
+    "Âm nhạc"
+   ],
+   "classes": [
+    "9A",
+    "9B",
+    "9C",
+    "9D",
+    "9E"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "S4",
+   "name": "Lê Thị Huyền",
+   "subject": "Lịch sử",
+   "teachingSubjects": [
+    "Lịch sử"
+   ],
+   "classes": [
+    "10 Nga 1",
+    "10 Sử 1",
+    "10 Văn 1",
+    "12 Nga",
+    "12 Sinh 1"
+   ],
+   "homeroom": [
+    "10 Sử 1"
+   ]
+  },
+  {
+   "code": "V10",
+   "name": "Lê Thị Hương",
+   "subject": "Ngữ văn",
+   "teachingSubjects": [
+    "Ngữ văn"
+   ],
+   "classes": [
+    "10 Địa 2",
+    "11 Tin 2",
+    "11 Trung 2"
+   ],
+   "homeroom": [
+    "10 Địa 2"
+   ]
+  },
+  {
+   "code": "H3",
+   "name": "Lê Thị Ngọc Hà",
+   "subject": "Hóa học",
+   "teachingSubjects": [
+    "Hóa học"
+   ],
+   "classes": [
+    "10 Hóa 1",
+    "10 Hóa 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "V8",
+   "name": "Lê Thị Thanh Huyền",
+   "subject": "Ngữ văn",
+   "teachingSubjects": [
+    "Ngữ văn"
+   ],
+   "classes": [
+    "10 Toán 1",
+    "11 Văn 2",
+    "12 Oxford"
+   ],
+   "homeroom": [
+    "12 Oxford"
+   ]
+  },
+  {
+   "code": "TIn9",
+   "name": "Lê Thị Thu Hà",
+   "subject": "Tin học",
+   "teachingSubjects": [
+    "Tin học"
+   ],
+   "classes": [],
+   "homeroom": []
+  },
+  {
+   "code": "TIn3",
+   "name": "Lê Thị Thúy",
+   "subject": "Tin học",
+   "teachingSubjects": [
+    "Tin học"
+   ],
+   "classes": [
+    "11 Tin 1",
+    "12 Tin 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "N16",
+   "name": "Lê Thu Thủy",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ"
+   ],
+   "classes": [
+    "10 Anh 2",
+    "10 Tin 1",
+    "10 Tin 2",
+    "11 Anh 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "S13",
+   "name": "Lê Thúy Mai",
+   "subject": "Lịch sử",
+   "teachingSubjects": [
+    "Lịch sử"
+   ],
+   "classes": [
+    "11 Nhật",
+    "11 Pháp 2",
+    "11 Trung 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "N28",
+   "name": "Lương Thị Mỹ Hạnh",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ"
+   ],
+   "classes": [
+    "11 Nga - Trung",
+    "11 Nhật",
+    "11 Sinh 1",
+    "12 Địa 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "L2",
+   "name": "Lương Thị Thùy Dương",
+   "subject": "Vật lí",
+   "teachingSubjects": [
+    "Vật lí"
+   ],
+   "classes": [
+    "10 Anh 2",
+    "10 Nga 1",
+    "10 Nga 2",
+    "10 Pháp 2",
+    "12 Oxford",
+    "12 Sinh 1",
+    "12 Trung"
+   ],
+   "homeroom": [
+    "10 Pháp 2"
+   ]
+  },
+  {
+   "code": "TIn13",
+   "name": "Lưu Thanh Tùng",
+   "subject": "Tin học",
+   "teachingSubjects": [
+    "Tin học"
+   ],
+   "classes": [
+    "10 Nga 2",
+    "12 Lý 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "N20",
+   "name": "Mai Thành Sơn",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ"
+   ],
+   "classes": [
+    "9D",
+    "12 Anh 2",
+    "12 Nga",
+    "12 Tin 2",
+    "12 Văn 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "Đ6",
+   "name": "Mai Thị Thủy",
+   "subject": "Địa lí",
+   "teachingSubjects": [
+    "Địa lí"
+   ],
+   "classes": [
+    "11 Địa 1",
+    "11 Nga - Trung",
+    "11 Văn 1",
+    "11 Văn 2",
+    "12 Anh 1",
+    "12 Anh 2",
+    "12 Sử 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "Sh6",
+   "name": "Mai Thị Thủy",
+   "subject": "Sinh học",
+   "teachingSubjects": [
+    "Sinh học"
+   ],
+   "classes": [
+    "10 Hóa 2",
+    "10 Pháp 1",
+    "10 Pháp 2",
+    "10 Toán 2",
+    "12 Hóa 1",
+    "12 Pháp 2",
+    "12 Tin 2"
+   ],
+   "homeroom": [
+    "12 Pháp 2"
+   ]
+  },
+  {
+   "code": "Sh7",
+   "name": "Mai Thị Tình",
+   "subject": "Sinh học",
+   "teachingSubjects": [
+    "Sinh học"
+   ],
+   "classes": [
+    "10 Sinh 1",
+    "10 Toán 1",
+    "12 Sinh 1"
+   ],
+   "homeroom": [
+    "12 Sinh 1"
+   ]
+  },
+  {
+   "code": "H7",
+   "name": "Ng. Thị Thúy Hường",
+   "subject": "Hóa học",
+   "teachingSubjects": [
+    "Hóa học"
+   ],
+   "classes": [
+    "12 Lý 1",
+    "12 Lý 2",
+    "12 Sinh 1",
+    "12 Sinh 2",
+    "12 Tin 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "T25",
+   "name": "Ngân Văn Kỳ",
+   "subject": "Toán",
+   "teachingSubjects": [
+    "Toán"
+   ],
+   "classes": [
+    "11 Trung 2",
+    "12 Địa 1",
+    "12 Pháp 2",
+    "12 Văn 1"
+   ],
+   "homeroom": [
+    "11 Trung 2"
+   ]
+  },
+  {
+   "code": "T8",
+   "name": "Nghiêm Thị Hồng Hạnh",
+   "subject": "Toán",
+   "teachingSubjects": [
+    "Toán"
+   ],
+   "classes": [
+    "11 Tin 1",
+    "12 Hóa 2",
+    "12 Lý 2"
+   ],
+   "homeroom": [
+    "11 Tin 1"
+   ]
+  },
+  {
+   "code": "Nh1",
+   "name": "Ngô Thanh Hương",
+   "subject": "Âm nhạc",
+   "teachingSubjects": [
+    "Âm nhạc"
+   ],
+   "classes": [
+    "10 Anh 1",
+    "10 Anh 2",
+    "10 Sử 1",
+    "10 Sử 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "V25",
+   "name": "Ngô Thị Bình",
+   "subject": "Ngữ văn",
+   "teachingSubjects": [
+    "Ngữ văn"
+   ],
+   "classes": [
+    "10 Anh 2",
+    "10 Tin 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "L11",
+   "name": "Nguyễn Bảo Yến",
+   "subject": "Vật lí",
+   "teachingSubjects": [
+    "Vật lí"
+   ],
+   "classes": [
+    "10 Anh 1",
+    "10 Nhật",
+    "10 Văn 1",
+    "10 Văn 2",
+    "11 Địa 1",
+    "11 Sử 2",
+    "11 Tin 2",
+    "11 Văn 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "TIn10",
+   "name": "Nguyễn Công Khang",
+   "subject": "Tin học",
+   "teachingSubjects": [
+    "Tin học"
+   ],
+   "classes": [
+    "10 Hóa 1",
+    "11 Sinh 1",
+    "11 Sinh 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "T15",
+   "name": "Nguyễn Công Tất",
+   "subject": "Toán",
+   "teachingSubjects": [
+    "GDĐP",
+    "Toán"
+   ],
+   "classes": [
+    "10 Nhật",
+    "10 Pháp 2",
+    "10 Trung 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "Td5",
+   "name": "Nguyễn Duy Tuyến",
+   "subject": "Giáo dục thể chất",
+   "teachingSubjects": [
+    "Giáo dục thể chất"
+   ],
+   "classes": [
+    "11 Địa 1",
+    "11 Lý 1",
+    "11 Lý 2",
+    "11 Pháp 1",
+    "11 Pháp 2",
+    "11 Tin 1",
+    "11 Tin 2",
+    "12 Lý 1",
+    "12 Lý 2",
+    "12 Sinh 1",
+    "12 Sinh 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "T17",
+   "name": "Nguyễn Đắc Thắng",
+   "subject": "Toán",
+   "teachingSubjects": [
+    "Toán"
+   ],
+   "classes": [
+    "9A",
+    "11 Toán 2",
+    "12 Lý 1",
+    "12 Sinh 1"
+   ],
+   "homeroom": [
+    "9A"
+   ]
+  },
+  {
+   "code": "T4",
+   "name": "Nguyễn Đức Cường",
+   "subject": "Toán",
+   "teachingSubjects": [
+    "Toán"
+   ],
+   "classes": [
+    "10 Nhật",
+    "11 Lý 1",
+    "11 Nhật"
+   ],
+   "homeroom": [
+    "11 Nhật"
+   ]
+  },
+  {
+   "code": "S14",
+   "name": "Nguyễn Đức Nghĩa",
+   "subject": "Lịch sử",
+   "teachingSubjects": [
+    "Lịch sử"
+   ],
+   "classes": [
+    "9A",
+    "9B",
+    "9C",
+    "10 Pháp 1",
+    "10 Sử 2",
+    "11 Anh 1",
+    "11 Lý 1",
+    "11 Văn 1",
+    "12 Địa 2",
+    "12 Sử 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "TIn12",
+   "name": "Nguyễn Đức Nguyên",
+   "subject": "Tin học",
+   "teachingSubjects": [
+    "Tin học"
+   ],
+   "classes": [
+    "11 Hóa 1",
+    "11 Hóa 2",
+    "12 Lý 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "N35",
+   "name": "Nguyễn Hải Yến",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ"
+   ],
+   "classes": [
+    "12 Pháp 1",
+    "12 Pháp 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "S15",
+   "name": "Nguyễn Hoàng Gia Phúc",
+   "subject": "Lịch sử",
+   "teachingSubjects": [
+    "Lịch sử"
+   ],
+   "classes": [
+    "9D",
+    "9E",
+    "10 Địa 1",
+    "10 Hóa 1",
+    "10 Toán 2",
+    "12 Pháp 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "N24",
+   "name": "Nguyễn Hồng Giang",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ"
+   ],
+   "classes": [
+    "10 Nga 2",
+    "11 Lý 2",
+    "11 Trung 1",
+    "11 Trung 3"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "H5",
+   "name": "Nguyễn Hồng Hải",
+   "subject": "Hóa học",
+   "teachingSubjects": [
+    "Hóa học"
+   ],
+   "classes": [
+    "10 Sinh 1",
+    "12 Hóa 1"
+   ],
+   "homeroom": [
+    "12 Hóa 1"
+   ]
+  },
+  {
+   "code": "N26",
+   "name": "Nguyễn Hương Quỳnh Hoa",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ"
+   ],
+   "classes": [
+    "9E",
+    "12 Cambridge",
+    "12 Oxford"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "L14",
+   "name": "Nguyễn Hữu Đại",
+   "subject": "Vật lí",
+   "teachingSubjects": [
+    "Vật lí"
+   ],
+   "classes": [
+    "10 Hóa 1",
+    "10 Sinh 1",
+    "10 Sử 2",
+    "10 Trung - Nga",
+    "11 Trung 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "S1",
+   "name": "Nguyễn Kim Dung",
+   "subject": "Lịch sử",
+   "teachingSubjects": [
+    "Lịch sử"
+   ],
+   "classes": [
+    "10 Anh 2",
+    "10 Sinh 1",
+    "12 Lý 1",
+    "12 Lý 2",
+    "12 Sinh 2",
+    "12 Sử 1",
+    "12 Sử 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "V5",
+   "name": "Nguyễn Lê Dung",
+   "subject": "Ngữ văn",
+   "teachingSubjects": [
+    "Ngữ văn"
+   ],
+   "classes": [
+    "9B",
+    "11 Địa 1",
+    "12 Lý 1"
+   ],
+   "homeroom": [
+    "11 Địa 1"
+   ]
+  },
+  {
+   "code": "Đ1",
+   "name": "Nguyễn Mạnh Hà",
+   "subject": "Địa lí",
+   "teachingSubjects": [
+    "Địa lí"
+   ],
+   "classes": [
+    "9A",
+    "9B",
+    "9D",
+    "10 Địa 2",
+    "12 Địa 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "Tin8",
+   "name": "Nguyễn Minh Đức",
+   "subject": "Tin học",
+   "teachingSubjects": [
+    "Tin học"
+   ],
+   "classes": [
+    "9D",
+    "9E",
+    "10 Hóa 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "N30",
+   "name": "Nguyễn Minh Hoà",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ",
+    "Ngoại ngữ Trung"
+   ],
+   "classes": [
+    "10 Trung 1",
+    "11 Trung 3",
+    "Nhóm 10 Trung"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "Td6",
+   "name": "Nguyễn Minh Thủy",
+   "subject": "Giáo dục thể chất",
+   "teachingSubjects": [
+    "Giáo dục thể chất"
+   ],
+   "classes": [
+    "11 Anh 1",
+    "11 Anh 2",
+    "11 Hóa 1",
+    "11 Hóa 2",
+    "11 Nhật",
+    "11 Sinh 1",
+    "11 Sinh 2",
+    "12 Tin 1",
+    "12 Tin 2",
+    "12 Văn 1",
+    "12 Văn 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "MT2",
+   "name": "Nguyễn Minh Yến",
+   "subject": "Mỹ thuật",
+   "teachingSubjects": [
+    "Mỹ thuật"
+   ],
+   "classes": [
+    "9D",
+    "9E"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "N3",
+   "name": "Nguyễn Ngọc Diệp Chi",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ",
+    "Ngoại ngữ Nga"
+   ],
+   "classes": [
+    "10 Nga 1",
+    "Nhóm 10 Nga",
+    "Nhóm 11 Nga"
+   ],
+   "homeroom": [
+    "10 Nga 1"
+   ]
+  },
+  {
+   "code": "L12",
+   "name": "Nguyễn Phương Anh",
+   "subject": "Vật lí",
+   "teachingSubjects": [
+    "Vật lí"
+   ],
+   "classes": [
+    "10 Sinh 2",
+    "11 Địa 2",
+    "11 Trung 2",
+    "11 Trung 3"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "N23",
+   "name": "Nguyễn Phương Anh",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ"
+   ],
+   "classes": [
+    "11 Pháp 1",
+    "11 Pháp 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "TIn7",
+   "name": "Nguyễn Quang Đạt",
+   "subject": "Tin học",
+   "teachingSubjects": [
+    "Tin học"
+   ],
+   "classes": [
+    "11 Toán 1",
+    "11 Toán 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "H14",
+   "name": "Nguyễn Thái Sơn",
+   "subject": "Hóa học",
+   "teachingSubjects": [
+    "Hóa học"
+   ],
+   "classes": [
+    "9E",
+    "11 Anh 1",
+    "11 Pháp 1",
+    "11 Tin 1",
+    "11 Toán 1",
+    "12 Toán 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "V3",
+   "name": "Nguyễn Thanh Bình",
+   "subject": "Ngữ văn",
+   "teachingSubjects": [
+    "Ngữ văn"
+   ],
+   "classes": [
+    "9A",
+    "11 Anh 1",
+    "11 Sử 1"
+   ],
+   "homeroom": [
+    "11 Anh 1"
+   ]
+  },
+  {
+   "code": "N13",
+   "name": "Nguyễn Thanh Nhã",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ"
+   ],
+   "classes": [
+    "12 Địa 2",
+    "12 Sinh 2",
+    "12 Sử 2",
+    "12 Văn 1"
+   ],
+   "homeroom": [
+    "12 Văn 1"
+   ]
+  },
+  {
+   "code": "Td7",
+   "name": "Nguyễn Thành Trung",
+   "subject": "Giáo dục thể chất",
+   "teachingSubjects": [
+    "Giáo dục thể chất"
+   ],
+   "classes": [
+    "10 Hóa 1",
+    "10 Hóa 2",
+    "10 Nhật",
+    "10 Pháp 1",
+    "10 Trung 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "TIn4",
+   "name": "Nguyễn Thanh Tùng",
+   "subject": "Tin học",
+   "teachingSubjects": [
+    "Chuyên đề",
+    "Tin học"
+   ],
+   "classes": [
+    "10 Tin 1",
+    "10 Tin 2",
+    "11 Tin 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "Sh10",
+   "name": "Nguyễn Thị Đức",
+   "subject": "Sinh học",
+   "teachingSubjects": [
+    "Sinh học"
+   ],
+   "classes": [
+    "11 Pháp 1",
+    "11 Pháp 2",
+    "11 Văn 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "V26",
+   "name": "Nguyễn Thị Hải",
+   "subject": "Ngữ văn",
+   "teachingSubjects": [
+    "Ngữ văn"
+   ],
+   "classes": [
+    "9D",
+    "11 Sinh 1",
+    "12 Pháp 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "N33",
+   "name": "Nguyễn Thị Hiền Minh",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ"
+   ],
+   "classes": [
+    "10 Nhật",
+    "11 Nhật"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "H6",
+   "name": "Nguyễn Thị Hồng",
+   "subject": "Hóa học",
+   "teachingSubjects": [
+    "Hóa học"
+   ],
+   "classes": [
+    "11 Hóa 1",
+    "11 Hóa 2",
+    "11 Lý 1"
+   ],
+   "homeroom": [
+    "11 Hóa 2"
+   ]
+  },
+  {
+   "code": "Td9",
+   "name": "Nguyễn Thị Hồng Yến",
+   "subject": "Giáo dục thể chất",
+   "teachingSubjects": [
+    "Giáo dục thể chất"
+   ],
+   "classes": [
+    "9A",
+    "9B",
+    "9C",
+    "9D",
+    "9E"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "Td4",
+   "name": "Nguyễn Thị Linh",
+   "subject": "Giáo dục thể chất",
+   "teachingSubjects": [
+    "Giáo dục thể chất"
+   ],
+   "classes": [
+    "10 Địa 1",
+    "10 Địa 2",
+    "10 Lý 1",
+    "10 Lý 2",
+    "10 Pháp 2",
+    "10 Sinh 1",
+    "10 Sinh 2",
+    "12 Địa 2",
+    "12 Oxford",
+    "12 Sử 1",
+    "12 Sử 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "Sh3",
+   "name": "Nguyễn Thị Mai",
+   "subject": "Sinh học",
+   "teachingSubjects": [
+    "Sinh học"
+   ],
+   "classes": [
+    "11 Sinh 1",
+    "12 Hóa 2",
+    "12 Sinh 2"
+   ],
+   "homeroom": [
+    "11 Sinh 1"
+   ]
+  },
+  {
+   "code": "MT1",
+   "name": "Nguyễn Thị Mỹ Hà",
+   "subject": "Mỹ thuật",
+   "teachingSubjects": [
+    "Mỹ thuật"
+   ],
+   "classes": [
+    "9A",
+    "9B",
+    "9C"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "V15",
+   "name": "Nguyễn Thị Ngọc Oanh",
+   "subject": "Ngữ văn",
+   "teachingSubjects": [
+    "Ngữ văn"
+   ],
+   "classes": [
+    "10 Lý 1",
+    "10 Toán 2",
+    "12 Anh 2"
+   ],
+   "homeroom": [
+    "12 Anh 2"
+   ]
+  },
+  {
+   "code": "V29",
+   "name": "Nguyễn Thị Nhàn",
+   "subject": "Ngữ văn",
+   "teachingSubjects": [
+    "Ngữ văn"
+   ],
+   "classes": [
+    "11 Pháp 1",
+    "11 Sử 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "S7",
+   "name": "Nguyễn Thị Nhật",
+   "subject": "Lịch sử",
+   "teachingSubjects": [
+    "Lịch sử"
+   ],
+   "classes": [
+    "11 Hóa 1",
+    "11 Sử 1",
+    "11 Sử 2",
+    "11 Tin 2",
+    "12 Anh 2",
+    "12 Toán 1"
+   ],
+   "homeroom": [
+    "11 Sử 2"
+   ]
+  },
+  {
+   "code": "G9",
+   "name": "Nguyễn Thị Như",
+   "subject": "GDKT & Pháp luật",
+   "teachingSubjects": [
+    "GDKT & Pháp luật"
+   ],
+   "classes": [
+    "9A",
+    "9B",
+    "9C",
+    "9D",
+    "9E"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "Sh2",
+   "name": "Nguyễn Thị Phương Hoa",
+   "subject": "Sinh học",
+   "teachingSubjects": [
+    "Sinh học"
+   ],
+   "classes": [
+    "10 Tin 1",
+    "12 Cambridge",
+    "12 Lý 1",
+    "12 Lý 2",
+    "12 Pháp 1",
+    "12 Sử 2",
+    "12 Văn 1",
+    "12 Văn 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "V19",
+   "name": "Nguyễn Thị Phương Thanh",
+   "subject": "Ngữ văn",
+   "teachingSubjects": [
+    "Ngữ văn"
+   ],
+   "classes": [
+    "10 Sinh 1",
+    "11 Văn 1"
+   ],
+   "homeroom": [
+    "11 Văn 1"
+   ]
+  },
+  {
+   "code": "N18",
+   "name": "Nguyễn Thị Phương Trà",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ"
+   ],
+   "classes": [
+    "12 Pháp 1",
+    "12 Pháp 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "Sh4",
+   "name": "Nguyễn Thị Quyên",
+   "subject": "Sinh học",
+   "teachingSubjects": [
+    "Sinh học"
+   ],
+   "classes": [
+    "11 Hóa 2",
+    "11 Lý 2",
+    "11 Pháp 1",
+    "11 Sinh 2",
+    "11 Toán 2"
+   ],
+   "homeroom": [
+    "11 Sinh 2"
+   ]
+  },
+  {
+   "code": "N25",
+   "name": "Nguyễn Thị Thanh Hà",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ"
+   ],
+   "classes": [
+    "10 Nga 1",
+    "10 Nga 2",
+    "12 Nga"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "Đ5",
+   "name": "Nguyễn Thị Thanh Ngọc",
+   "subject": "Địa lí",
+   "teachingSubjects": [
+    "Địa lí"
+   ],
+   "classes": [
+    "10 Địa 1",
+    "10 Sử 1",
+    "12 Sử 2"
+   ],
+   "homeroom": [
+    "10 Địa 1"
+   ]
+  },
+  {
+   "code": "V20",
+   "name": "Nguyễn Thị Thanh Thuỷ",
+   "subject": "Ngữ văn",
+   "teachingSubjects": [
+    "Ngữ văn"
+   ],
+   "classes": [
+    "10 Nhật",
+    "10 Trung - Nga",
+    "10 Văn 1",
+    "12 Hóa 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "N15",
+   "name": "Nguyễn Thị Thanh Thúy",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ",
+    "Ngoại ngữ Trung"
+   ],
+   "classes": [
+    "10 Trung 1",
+    "Nhóm 10 Trung"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "L9",
+   "name": "Nguyễn Thị Thơm",
+   "subject": "Vật lí",
+   "teachingSubjects": [
+    "Vật lí"
+   ],
+   "classes": [
+    "9E",
+    "10 Địa 2",
+    "10 Sử 1",
+    "10 Trung 1",
+    "11 Nga - Trung",
+    "11 Sử 1",
+    "11 Văn 2"
+   ],
+   "homeroom": [
+    "9E"
+   ]
+  },
+  {
+   "code": "H12",
+   "name": "Nguyễn Thị Thu Cúc",
+   "subject": "Hóa học",
+   "teachingSubjects": [
+    "Hóa học"
+   ],
+   "classes": [
+    "12 Pháp 1",
+    "12 Pháp 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "Đ2",
+   "name": "Nguyễn Thị Thu Hà",
+   "subject": "Địa lí",
+   "teachingSubjects": [
+    "Địa lí"
+   ],
+   "classes": [
+    "11 Địa 1",
+    "11 Sử 1",
+    "12 Nga",
+    "12 Trung",
+    "12 Văn 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "Đ4",
+   "name": "Nguyễn Thị Thu Ngân",
+   "subject": "Địa lí",
+   "teachingSubjects": [
+    "Địa lí"
+   ],
+   "classes": [
+    "10 Anh 1",
+    "10 Nga 1",
+    "10 Nga 2",
+    "10 Trung 1",
+    "12 Địa 1"
+   ],
+   "homeroom": [
+    "10 Nga 2"
+   ]
+  },
+  {
+   "code": "QP4",
+   "name": "Nguyễn Thị Thúy",
+   "subject": "GD Quốc phòng & AN",
+   "teachingSubjects": [
+    "GD Quốc phòng & AN"
+   ],
+   "classes": [
+    "10 Nga 1",
+    "10 Sử 1",
+    "10 Toán 1",
+    "10 Toán 2",
+    "10 Trung - Nga",
+    "10 Trung 1",
+    "10 Văn 2",
+    "11 Địa 2",
+    "11 Lý 2",
+    "11 Nga - Trung",
+    "11 Pháp 1",
+    "11 Sử 1",
+    "11 Sử 2",
+    "11 Tin 1",
+    "11 Toán 1",
+    "11 Toán 2",
+    "11 Trung 1",
+    "11 Trung 2",
+    "11 Văn 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "MT3",
+   "name": "Nguyễn Thị Tuyết Trinh",
+   "subject": "Mỹ thuật",
+   "teachingSubjects": [
+    "Mỹ thuật"
+   ],
+   "classes": [
+    "10 Pháp 1",
+    "10 Pháp 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "H1",
+   "name": "Nguyễn Thị Vân Anh",
+   "subject": "Hóa học",
+   "teachingSubjects": [
+    "Hóa học"
+   ],
+   "classes": [
+    "10 Hóa 2",
+    "10 Lý 2",
+    "10 Nhật",
+    "10 Pháp 1",
+    "10 Toán 1",
+    "10 Toán 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "T3",
+   "name": "Nguyễn Thị Vân Anh",
+   "subject": "Toán",
+   "teachingSubjects": [
+    "Toán"
+   ],
+   "classes": [
+    "10 Văn 1",
+    "10 Văn 2",
+    "12 Sinh 2"
+   ],
+   "homeroom": [
+    "12 Sinh 2"
+   ]
+  },
+  {
+   "code": "N22",
+   "name": "Nguyễn Thị Việt",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ",
+    "Ngoại ngữ Trung"
+   ],
+   "classes": [
+    "11 Trung 2",
+    "12 Trung",
+    "Nhóm 11 Trung"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "N6",
+   "name": "Nguyễn Thu Hiền",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ"
+   ],
+   "classes": [
+    "10 Địa 2",
+    "10 Nhật",
+    "10 Sinh 2",
+    "10 Trung - Nga",
+    "10 Trung 1",
+    "11 Sinh 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "S6",
+   "name": "Nguyễn Thu Hương",
+   "subject": "Lịch sử",
+   "teachingSubjects": [
+    "Lịch sử"
+   ],
+   "classes": [
+    "11 Sinh 1",
+    "11 Sinh 2",
+    "11 Sử 2",
+    "11 Tin 1",
+    "12 Tin 1",
+    "12 Toán 2",
+    "12 Trung"
+   ],
+   "homeroom": [
+    "12 Trung"
+   ]
+  },
+  {
+   "code": "L4",
+   "name": "Nguyễn Thùy Linh",
+   "subject": "Vật lí",
+   "teachingSubjects": [
+    "Vật lí"
+   ],
+   "classes": [
+    "11 Anh 2",
+    "11 Pháp 1",
+    "11 Pháp 2",
+    "11 Sinh 1",
+    "11 Sinh 2",
+    "11 Toán 2"
+   ],
+   "homeroom": [
+    "11 Toán 2"
+   ]
+  },
+  {
+   "code": "T19",
+   "name": "Nguyễn Tiến Trung",
+   "subject": "Toán",
+   "teachingSubjects": [
+    "Toán"
+   ],
+   "classes": [
+    "10 Pháp 1",
+    "10 Toán 2"
+   ],
+   "homeroom": [
+    "10 Pháp 1"
+   ]
+  },
+  {
+   "code": "Sh9",
+   "name": "Nguyễn Trần Quý Duy",
+   "subject": "Sinh học",
+   "teachingSubjects": [
+    "Sinh học"
+   ],
+   "classes": [
+    "10 Sinh 2",
+    "10 Tin 2",
+    "11 Hóa 1",
+    "11 Sinh 2",
+    "11 Toán 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "T20",
+   "name": "Nguyễn Trung Tuân",
+   "subject": "Toán",
+   "teachingSubjects": [
+    "Toán"
+   ],
+   "classes": [
+    "12 Toán 1"
+   ],
+   "homeroom": [
+    "12 Toán 1"
+   ]
+  },
+  {
+   "code": "V28",
+   "name": "Nguyễn Trương Diệu Linh",
+   "subject": "Ngữ văn",
+   "teachingSubjects": [
+    "Ngữ văn"
+   ],
+   "classes": [
+    "11 Hóa 2",
+    "11 Tin 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "T21",
+   "name": "Nguyễn Tuấn Anh",
+   "subject": "Toán",
+   "teachingSubjects": [
+    "Toán"
+   ],
+   "classes": [
+    "10 Anh 1",
+    "10 Toán 1",
+    "11 Địa 1",
+    "11 Hóa 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "N2",
+   "name": "Nguyễn Văn Bắc",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ"
+   ],
+   "classes": [
+    "10 Anh 2",
+    "12 Hóa 2",
+    "12 Lý 2"
+   ],
+   "homeroom": [
+    "10 Anh 2"
+   ]
+  },
+  {
+   "code": "QP1",
+   "name": "Nguyễn Văn Định",
+   "subject": "GD Quốc phòng & AN",
+   "teachingSubjects": [
+    "GD Quốc phòng & AN"
+   ],
+   "classes": [
+    "10 Hóa 1",
+    "10 Hóa 2",
+    "10 Lý 1",
+    "10 Lý 2",
+    "11 Hóa 1",
+    "11 Hóa 2",
+    "11 Tin 2",
+    "12 Cambridge",
+    "12 Địa 2",
+    "12 Hóa 1",
+    "12 Lý 1",
+    "12 Lý 2",
+    "12 Oxford",
+    "12 Pháp 1",
+    "12 Pháp 2",
+    "12 Sinh 2",
+    "12 Tin 2",
+    "12 Trung",
+    "12 Văn 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "QP3",
+   "name": "Nguyễn Văn Mạnh",
+   "subject": "GD Quốc phòng & AN",
+   "teachingSubjects": [
+    "GD Quốc phòng & AN"
+   ],
+   "classes": [
+    "10 Anh 1",
+    "10 Sinh 1",
+    "10 Tin 1",
+    "10 Tin 2",
+    "11 Anh 1",
+    "11 Lý 1",
+    "11 Sinh 1",
+    "12 Anh 1",
+    "12 Anh 2",
+    "12 Địa 1",
+    "12 Hóa 2",
+    "12 Nga",
+    "12 Sinh 1",
+    "12 Sử 1",
+    "12 Sử 2",
+    "12 Tin 1",
+    "12 Toán 1",
+    "12 Toán 2",
+    "12 Văn 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "Cn3",
+   "name": "Nguyễn Văn Quảng",
+   "subject": "Công nghệ",
+   "teachingSubjects": [
+    "Công nghệ"
+   ],
+   "classes": [
+    "11 Anh 1",
+    "11 Nga - Trung",
+    "11 Nhật",
+    "11 Sử 1",
+    "11 Sử 2",
+    "11 Trung 1",
+    "12 Anh 1",
+    "12 Sử 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "S9",
+   "name": "Nguyễn Xuân Anh",
+   "subject": "Lịch sử",
+   "teachingSubjects": [
+    "Lịch sử"
+   ],
+   "classes": [
+    "11 Pháp 1",
+    "11 Trung 2",
+    "11 Trung 3"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "L7",
+   "name": "Nguyễn Xuân Quang",
+   "subject": "Vật lí",
+   "teachingSubjects": [
+    "Vật lí"
+   ],
+   "classes": [
+    "10 Lý 1",
+    "12 Lý 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "V23",
+   "name": "Phạm Hải Anh",
+   "subject": "Ngữ văn",
+   "teachingSubjects": [
+    "Ngữ văn"
+   ],
+   "classes": [
+    "11 Nga - Trung",
+    "11 Trung 3",
+    "12 Văn 1"
+   ],
+   "homeroom": [
+    "11 Trung 3"
+   ]
+  },
+  {
+   "code": "N31",
+   "name": "Phạm Hiền Mai",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ"
+   ],
+   "classes": [
+    "10 Hóa 2",
+    "10 Lý 2",
+    "11 Địa 1",
+    "11 Sử 2",
+    "11 Toán 2",
+    "11 Văn 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "N27",
+   "name": "Phạm Lê Huy",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ"
+   ],
+   "classes": [
+    "11 Pháp 1",
+    "11 Pháp 2"
+   ],
+   "homeroom": [
+    "11 Pháp 1"
+   ]
+  },
+  {
+   "code": "S3",
+   "name": "Phạm Ngọc Hùng",
+   "subject": "Lịch sử",
+   "teachingSubjects": [
+    "Lịch sử"
+   ],
+   "classes": [
+    "11 Sử 1",
+    "12 Pháp 2",
+    "12 Văn 1"
+   ],
+   "homeroom": [
+    "11 Sử 1"
+   ]
+  },
+  {
+   "code": "V11",
+   "name": "Phạm Ngọc Lan",
+   "subject": "Ngữ văn",
+   "teachingSubjects": [
+    "Ngữ văn"
+   ],
+   "classes": [
+    "11 Văn 1",
+    "12 Sử 1",
+    "12 Toán 2"
+   ],
+   "homeroom": [
+    "12 Sử 1"
+   ]
+  },
+  {
+   "code": "T23",
+   "name": "Phạm Tất Dũng",
+   "subject": "Toán",
+   "teachingSubjects": [
+    "Toán"
+   ],
+   "classes": [
+    "10 Sinh 2",
+    "10 Trung - Nga",
+    "11 Sinh 2",
+    "11 Trung 3"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "N8",
+   "name": "Phạm Thị Bích Hồng",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ",
+    "Ngoại ngữ Nga"
+   ],
+   "classes": [
+    "10 Nga 2",
+    "Nhóm 11 Nga"
+   ],
+   "homeroom": [
+    "11 Nga - Trung"
+   ]
+  },
+  {
+   "code": "L5",
+   "name": "Phạm Thị Phương",
+   "subject": "Vật lí",
+   "teachingSubjects": [
+    "Vật lí"
+   ],
+   "classes": [
+    "10 Toán 2",
+    "12 Anh 2",
+    "12 Địa 2",
+    "12 Nga",
+    "12 Sinh 2",
+    "12 Tin 2"
+   ],
+   "homeroom": [
+    "10 Toán 2"
+   ]
+  },
+  {
+   "code": "V24",
+   "name": "Phạm Thị Thái Bình",
+   "subject": "Ngữ văn",
+   "teachingSubjects": [
+    "Ngữ văn"
+   ],
+   "classes": [
+    "10 Hóa 2",
+    "12 Tin 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "Cn2",
+   "name": "Phạm Thị Thu Hà",
+   "subject": "Công nghệ",
+   "teachingSubjects": [
+    "Công nghệ"
+   ],
+   "classes": [
+    "9A",
+    "9B",
+    "9C",
+    "9D",
+    "9E",
+    "11 Anh 2",
+    "11 Địa 1",
+    "11 Địa 2",
+    "11 Trung 2",
+    "11 Trung 3"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "Đ8",
+   "name": "Phạm Thu Huyền",
+   "subject": "Địa lí",
+   "teachingSubjects": [
+    "Địa lí"
+   ],
+   "classes": [
+    "10 Trung - Nga",
+    "10 Văn 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "H11",
+   "name": "Phạm Tuấn Anh",
+   "subject": "Hóa học",
+   "teachingSubjects": [
+    "GDĐP",
+    "Hóa học"
+   ],
+   "classes": [
+    "9B",
+    "10 Anh 1",
+    "10 Anh 2",
+    "10 Sử 1",
+    "10 Sử 2",
+    "10 Tin 1",
+    "10 Tin 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "L3",
+   "name": "Phạm Vũ Bích Hằng",
+   "subject": "Vật lí",
+   "teachingSubjects": [
+    "Vật lí"
+   ],
+   "classes": [
+    "9A",
+    "9B",
+    "9C",
+    "9D",
+    "12 Lý 1",
+    "12 Toán 2"
+   ],
+   "homeroom": [
+    "12 Lý 1"
+   ]
+  },
+  {
+   "code": "T2",
+   "name": "Phan Hồng Anh",
+   "subject": "Toán",
+   "teachingSubjects": [
+    "Toán"
+   ],
+   "classes": [
+    "10 Tin 1",
+    "10 Tin 2",
+    "11 Anh 1"
+   ],
+   "homeroom": [
+    "10 Tin 2"
+   ]
+  },
+  {
+   "code": "G7",
+   "name": "Phan Vũ Diễm Hằng",
+   "subject": "GDKT & Pháp luật",
+   "teachingSubjects": [
+    "GDKT & Pháp luật"
+   ],
+   "classes": [
+    "11 Địa 1",
+    "11 Nhật"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "Td8",
+   "name": "Phùng Thị Thu",
+   "subject": "Giáo dục thể chất",
+   "teachingSubjects": [
+    "Giáo dục thể chất"
+   ],
+   "classes": [
+    "11 Nga - Trung",
+    "11 Trung 1",
+    "11 Trung 2",
+    "11 Trung 3"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "T7",
+   "name": "Tạ Khánh Hà",
+   "subject": "Toán",
+   "teachingSubjects": [
+    "Toán"
+   ],
+   "classes": [
+    "9C",
+    "11 Sinh 1",
+    "12 Hóa 1",
+    "12 Toán 2"
+   ],
+   "homeroom": [
+    "9C"
+   ]
+  },
+  {
+   "code": "Đ7",
+   "name": "Tạ Quỳnh Trang",
+   "subject": "Địa lí",
+   "teachingSubjects": [
+    "Địa lí"
+   ],
+   "classes": [
+    "9C",
+    "9E",
+    "10 Sử 2",
+    "10 Văn 1",
+    "11 Địa 2",
+    "11 Sử 2",
+    "11 Trung 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "N19",
+   "name": "Tạ Thu Trang",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ"
+   ],
+   "classes": [
+    "9C",
+    "11 Địa 2",
+    "11 Hóa 2",
+    "11 Tin 2",
+    "11 Toán 1",
+    "11 Trung 2"
+   ],
+   "homeroom": [
+    "11 Địa 2"
+   ]
+  },
+  {
+   "code": "TIn11",
+   "name": "Thái Công Khanh",
+   "subject": "Tin học",
+   "teachingSubjects": [
+    "Chuyên đề",
+    "Tin học"
+   ],
+   "classes": [
+    "10 Tin 1",
+    "11 Tin 1",
+    "11 Tin 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "T10",
+   "name": "Thái Thị Thanh Hoa",
+   "subject": "Toán",
+   "teachingSubjects": [
+    "Toán"
+   ],
+   "classes": [
+    "10 Hóa 2",
+    "10 Toán 1"
+   ],
+   "homeroom": [
+    "10 Toán 1"
+   ]
+  },
+  {
+   "code": "S16",
+   "name": "Trần Anh Quyết",
+   "subject": "Lịch sử",
+   "teachingSubjects": [
+    "Lịch sử"
+   ],
+   "classes": [
+    "10 Lý 2",
+    "10 Nga 2",
+    "10 Nhật",
+    "10 Sinh 2",
+    "10 Tin 1",
+    "10 Văn 2",
+    "12 Cambridge"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "T11",
+   "name": "Trần Đức Hiếu",
+   "subject": "Toán",
+   "teachingSubjects": [
+    "Toán"
+   ],
+   "classes": [
+    "9D",
+    "10 Sử 2",
+    "11 Sử 1",
+    "11 Toán 1"
+   ],
+   "homeroom": [
+    "9D"
+   ]
+  },
+  {
+   "code": "N12",
+   "name": "Trần Hồng Linh",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ"
+   ],
+   "classes": [
+    "10 Sử 2",
+    "10 Toán 1",
+    "10 Văn 2"
+   ],
+   "homeroom": [
+    "10 Sử 2"
+   ]
+  },
+  {
+   "code": "Td3",
+   "name": "Trần Mạnh Hùng",
+   "subject": "Giáo dục thể chất",
+   "teachingSubjects": [
+    "Giáo dục thể chất"
+   ],
+   "classes": [
+    "10 Nga 1",
+    "10 Nga 2",
+    "10 Tin 1",
+    "10 Tin 2",
+    "10 Toán 1",
+    "10 Toán 2",
+    "12 Cambridge",
+    "12 Địa 1",
+    "12 Toán 1",
+    "12 Toán 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "V30",
+   "name": "Trần Minh Tùng",
+   "subject": "Ngữ văn",
+   "teachingSubjects": [
+    "Ngữ văn"
+   ],
+   "classes": [
+    "11 Văn 2",
+    "12 Sinh 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "V12",
+   "name": "Trần Mỹ Linh",
+   "subject": "Ngữ văn",
+   "teachingSubjects": [
+    "Ngữ văn"
+   ],
+   "classes": [
+    "11 Anh 2",
+    "11 Lý 2",
+    "11 Toán 2",
+    "12 Cambridge"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "T26",
+   "name": "Trần Phương Nga",
+   "subject": "Toán",
+   "teachingSubjects": [
+    "Toán"
+   ],
+   "classes": [
+    "10 Sử 1",
+    "11 Nga - Trung",
+    "11 Sử 2",
+    "12 Pháp 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "L1",
+   "name": "Trần Thị An",
+   "subject": "Vật lí",
+   "teachingSubjects": [
+    "Vật lí"
+   ],
+   "classes": [
+    "11 Anh 1",
+    "11 Hóa 1",
+    "11 Tin 1",
+    "11 Toán 1",
+    "12 Lý 2"
+   ],
+   "homeroom": [
+    "12 Lý 2"
+   ]
+  },
+  {
+   "code": "G5",
+   "name": "Trần Thị Điểu",
+   "subject": "GDKT & Pháp luật",
+   "teachingSubjects": [
+    "GDKT & Pháp luật"
+   ],
+   "classes": [
+    "10 Địa 1",
+    "10 Địa 2",
+    "11 Trung 2",
+    "11 Trung 3"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "V13",
+   "name": "Trần Thị Luyến",
+   "subject": "Ngữ văn",
+   "teachingSubjects": [
+    "Ngữ văn"
+   ],
+   "classes": [
+    "10 Pháp 1",
+    "10 Sinh 2",
+    "12 Pháp 1"
+   ],
+   "homeroom": [
+    "12 Pháp 1"
+   ]
+  },
+  {
+   "code": "T18",
+   "name": "Trần Thị Minh Thuỳ",
+   "subject": "Toán",
+   "teachingSubjects": [
+    "Toán"
+   ],
+   "classes": [
+    "10 Nga 2",
+    "10 Trung 1",
+    "12 Tin 1",
+    "12 Văn 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "Đ3",
+   "name": "Trần Thị Ngân",
+   "subject": "Địa lí",
+   "teachingSubjects": [
+    "Địa lí"
+   ],
+   "classes": [
+    "10 Anh 2",
+    "10 Địa 2",
+    "12 Địa 1",
+    "12 Văn 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "G3",
+   "name": "Trần Thị Thu Thảo",
+   "subject": "GDKT & Pháp luật",
+   "teachingSubjects": [
+    "GDKT & Pháp luật"
+   ],
+   "classes": [
+    "11 Anh 2",
+    "11 Văn 1",
+    "12 Địa 1",
+    "12 Địa 2",
+    "12 Sử 1",
+    "12 Sử 2",
+    "12 Văn 1",
+    "12 Văn 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "L10",
+   "name": "Trần Thị Tuyết",
+   "subject": "Vật lí",
+   "teachingSubjects": [
+    "Vật lí"
+   ],
+   "classes": [
+    "10 Địa 1",
+    "10 Pháp 1",
+    "12 Cambridge",
+    "12 Địa 1",
+    "12 Pháp 1",
+    "12 Pháp 2"
+   ],
+   "homeroom": [
+    "12 Cambridge"
+   ]
+  },
+  {
+   "code": "V21",
+   "name": "Trần Thị Xuyến",
+   "subject": "Ngữ văn",
+   "teachingSubjects": [
+    "Ngữ văn"
+   ],
+   "classes": [
+    "10 Địa 1",
+    "11 Sinh 2",
+    "12 Nga"
+   ],
+   "homeroom": [
+    "12 Nga"
+   ]
+  },
+  {
+   "code": "N5",
+   "name": "Trần Thu Giang",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ",
+    "Ngoại ngữ Nga"
+   ],
+   "classes": [
+    "12 Nga",
+    "Nhóm 10 Nga"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "HT",
+   "name": "Trần Thùy Dương",
+   "subject": "Quản lý",
+   "teachingSubjects": [
+    "Quản lý"
+   ],
+   "classes": [],
+   "homeroom": []
+  },
+  {
+   "code": "G1",
+   "name": "Trần Văn Năng",
+   "subject": "GDKT & Pháp luật",
+   "teachingSubjects": [
+    "GDKT & Pháp luật"
+   ],
+   "classes": [
+    "10 Anh 1",
+    "10 Anh 2",
+    "10 Văn 1",
+    "10 Văn 2",
+    "11 Sử 1",
+    "11 Sử 2",
+    "12 Anh 1",
+    "12 Anh 2",
+    "12 Pháp 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "L8",
+   "name": "Triệu Lê Quang",
+   "subject": "Vật lí",
+   "teachingSubjects": [
+    "Vật lí"
+   ],
+   "classes": [
+    "11 Hóa 2",
+    "11 Lý 1",
+    "11 Lý 2"
+   ],
+   "homeroom": [
+    "11 Lý 1"
+   ]
+  },
+  {
+   "code": "N32",
+   "name": "Trịnh Hồng Linh",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ"
+   ],
+   "classes": [
+    "10 Địa 1",
+    "10 Nga 1",
+    "10 Toán 2",
+    "10 Văn 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "N7",
+   "name": "Trịnh Lê Hoa",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "Ngoại ngữ"
+   ],
+   "classes": [
+    "11 Anh 1",
+    "11 Hóa 1",
+    "11 Lý 1",
+    "11 Tin 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "S5",
+   "name": "Trịnh Thị Huyền",
+   "subject": "Lịch sử",
+   "teachingSubjects": [
+    "Lịch sử"
+   ],
+   "classes": [
+    "10 Anh 1",
+    "10 Lý 1",
+    "10 Sử 2",
+    "10 Trung - Nga",
+    "12 Hóa 1"
+   ],
+   "homeroom": [
+    "10 Trung - Nga"
+   ]
+  },
+  {
+   "code": "T14",
+   "name": "Trương Nam Phương",
+   "subject": "Toán",
+   "teachingSubjects": [
+    "Toán"
+   ],
+   "classes": [
+    "10 Sinh 1",
+    "11 Anh 2",
+    "11 Pháp 1"
+   ],
+   "homeroom": [
+    "10 Sinh 1"
+   ]
+  },
+  {
+   "code": "G6",
+   "name": "Trương Thị Quỳnh Hoa",
+   "subject": "GDKT & Pháp luật",
+   "teachingSubjects": [
+    "GDKT & Pháp luật"
+   ],
+   "classes": [
+    "10 Nga 1",
+    "10 Sử 2",
+    "10 Trung - Nga",
+    "10 Trung 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "Sh11",
+   "name": "Trương Thị Thu Thủy",
+   "subject": "Sinh học",
+   "teachingSubjects": [
+    "Sinh học"
+   ],
+   "classes": [
+    "9A",
+    "9B",
+    "9C",
+    "9D",
+    "9E"
+   ],
+   "homeroom": [
+    "9B"
+   ]
+  },
+  {
+   "code": "T9",
+   "name": "Võ Thị Hằng",
+   "subject": "Toán",
+   "teachingSubjects": [
+    "Toán"
+   ],
+   "classes": [
+    "10 Lý 1",
+    "10 Toán 2"
+   ],
+   "homeroom": [
+    "10 Lý 1"
+   ]
+  },
+  {
+   "code": "S12",
+   "name": "Vũ Đông Hải",
+   "subject": "Lịch sử",
+   "teachingSubjects": [
+    "Lịch sử"
+   ],
+   "classes": [
+    "10 Pháp 2",
+    "10 Toán 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "S17",
+   "name": "Vũ Hà Thu",
+   "subject": "Lịch sử",
+   "teachingSubjects": [
+    "Lịch sử"
+   ],
+   "classes": [
+    "11 Địa 1",
+    "11 Địa 2",
+    "11 Văn 2",
+    "12 Địa 1",
+    "12 Oxford"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "V14",
+   "name": "Vũ Hồng Nhung",
+   "subject": "Ngữ văn",
+   "teachingSubjects": [
+    "Ngữ văn"
+   ],
+   "classes": [
+    "12 Sinh 1",
+    "12 Văn 2"
+   ],
+   "homeroom": [
+    "12 Văn 2"
+   ]
+  },
+  {
+   "code": "Nh3",
+   "name": "Vũ Manh Trường",
+   "subject": "Âm nhạc",
+   "teachingSubjects": [
+    "Âm nhạc"
+   ],
+   "classes": [
+    "10 Trung - Nga",
+    "10 Trung 1",
+    "10 Văn 1",
+    "10 Văn 2"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "V31",
+   "name": "Vũ Minh Tuệ",
+   "subject": "Ngữ văn",
+   "teachingSubjects": [
+    "Ngữ văn"
+   ],
+   "classes": [
+    "11 Nhật",
+    "11 Trung 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "L13",
+   "name": "Vũ Thế Anh",
+   "subject": "Vật lí",
+   "teachingSubjects": [
+    "Vật lí"
+   ],
+   "classes": [
+    "10 Hóa 2",
+    "12 Anh 1",
+    "12 Hóa 1",
+    "12 Hóa 2",
+    "12 Tin 1",
+    "12 Toán 1"
+   ],
+   "homeroom": [
+    "10 Hóa 2"
+   ]
+  },
+  {
+   "code": "N1",
+   "name": "Vũ Thị Kiều Anh",
+   "subject": "Ngoại ngữ",
+   "teachingSubjects": [
+    "GDĐP",
+    "Ngoại ngữ"
+   ],
+   "classes": [
+    "10 Pháp 2",
+    "10 Toán 1",
+    "10 Toán 2",
+    "11 Anh 1",
+    "11 Hóa 1",
+    "11 Hóa 2",
+    "11 Sinh 1",
+    "11 Sử 1"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "G4",
+   "name": "Vũ Thị Thu Thuỷ",
+   "subject": "GDKT & Pháp luật",
+   "teachingSubjects": [
+    "GDKT & Pháp luật"
+   ],
+   "classes": [
+    "11 Anh 1",
+    "11 Địa 2",
+    "11 Nga - Trung",
+    "11 Trung 1",
+    "11 Văn 2",
+    "12 Nga",
+    "12 Oxford",
+    "12 Pháp 1",
+    "12 Trung"
+   ],
+   "homeroom": []
+  },
+  {
+   "code": "Td1",
+   "name": "Vũ Tuấn Anh",
+   "subject": "Giáo dục thể chất",
+   "teachingSubjects": [
+    "Giáo dục thể chất"
+   ],
+   "classes": [
+    "10 Anh 1",
+    "10 Anh 2",
+    "10 Sử 1",
+    "10 Sử 2",
+    "10 Trung - Nga",
+    "10 Văn 1",
+    "10 Văn 2",
+    "12 Hóa 1",
+    "12 Hóa 2",
+    "12 Nga",
+    "12 Trung"
+   ],
+   "homeroom": []
+  }
+ ]
+}
